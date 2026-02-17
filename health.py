@@ -88,4 +88,5 @@ plt.tight_layout()
 
 # Save as high-quality image
 plt.savefig('diabetes_analysis.png', dpi=300, bbox_inches='tight')
-print("Chart saved! Ready for LinkedIn 📊")
+print("Chart saved!")
+
